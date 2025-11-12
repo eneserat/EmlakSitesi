@@ -1,6 +1,6 @@
 # Emlak Web Sitesi 🏡
 
-Bu repository, **C# / PHP / HTML / MySQL / Bootstrap** tabanlı bir emlak web sitesini içermektedir. Sitede konut, iş yeri ve diğer gayrimenkullerin listelenmesi, kullanıcı girişi/kayıt ve yönetim paneli gibi temel özellikler bulunmaktadır.
+Bu repository, ** / PHP / HTML / MySQL / Bootstrap** tabanlı bir emlak web sitesini içermektedir. Sitede konut, iş yeri ve diğer gayrimenkullerin listelenmesi, kullanıcı girişi/kayıt ve yönetim paneli gibi temel özellikler bulunmaktadır.
 
 ---
 
